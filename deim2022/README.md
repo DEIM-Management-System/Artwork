@@ -15,6 +15,11 @@
 
 ## バーチャル背景
 ### PNG形式
+#### Do It Your Self 皆さん自身のDEIM2022バーチャル背景を作ろう
+* 1920×1080の背景画像用写真を準備しましょう。
+* その上に以下のマスクをレイヤーで重ねます
+
+* 貴方自身のDEIM2022バーチャル背景が完成！
 #### 名古屋の旨いものシリーズ
 * <img src="deim2022-background_ajisen.png">
 * <img src="deim2022-background_yabaton.png">
