@@ -23,6 +23,15 @@
 #### 名古屋の旨いものシリーズ
 * <img src="deim2022-background_ajisen.png">
 * <img src="deim2022-background_yabaton.png">
+* <img src="deim2022-background_hitsumabushi.png">
+* <img src="deim2022-background_yamachan.png">
+
+#### 名古屋の風景シリーズ
+* <img src="deim2022-background_rego.png">
+* <img src="deim2022-background_eki.png">
+* <img src="deim2022-background_zoo.png">  
+* <img src="deim2022-background_castle.png">
+* <img src="deim2022-background_syachihoko.png">
 ### AI形式
 * [Utonium](https://www.fontspace.com/utonium-font-f18099)フォントをインストールしてください。
 * [ダウンロード](./dem2022-background.ai)
