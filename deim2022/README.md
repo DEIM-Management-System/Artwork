@@ -27,7 +27,7 @@
 * <img src="deim2022-background_yamachan.png">
 
 #### 名古屋の風景シリーズ
-* <img src="deim2022-background_rego.png">
+* <img src="deim2022-background_lego.png">
 * <img src="deim2022-background_eki.png">
 * <img src="deim2022-background_zoo.png">  
 * <img src="deim2022-background_castle.png">
