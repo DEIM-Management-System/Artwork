@@ -34,4 +34,5 @@
 * <img src="deim2022-background_syachihoko.png">
 ### AI形式
 * [Utonium](https://www.fontspace.com/utonium-font-f18099)フォントをインストールしてください。
-* [ダウンロード](./dem2022-background.ai)
+* テンプレート [ダウンロード](./dem2022-background.ai)
+* バラエティー実体 [ダウンロード](./dem2022-background_v.ai)
